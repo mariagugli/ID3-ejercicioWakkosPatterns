@@ -2,7 +2,7 @@ body {
     margin: 0px;
     font-family: 'montserrat';
     color: #1A1B1A;
-    background-image: url("img/chicas-playa.jpg");
+    background-image: url("../img/chicas-playa.jpg");
     background-size: cover;
     font-weight: 400px;
 }
@@ -140,11 +140,16 @@ button:hover,
 }
 
 .pattern-section {
-    margin-bottom: 64px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+    padding: 16px;
+    border: 1px solid #1A1B1A;
+    border-radius: 12px;
+    background-color: #E7DFDD;
 }
 
 .pattern-title {
-    border-bottom: 1px solid gainsboro;
+    border-bottom: 1px solid #454445;
     font-weight: bolder;
 }
 
