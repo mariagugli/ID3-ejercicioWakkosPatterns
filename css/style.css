@@ -1,14 +1,14 @@
 body {
     margin: 0px;
-    font-family: 'montserrat';
+    font-family: 'montserrat', sans-serif;
     color: #1A1B1A;
     background-image: url("../img/chicas-playa.jpg");
     background-size: cover;
-    font-weight: 400px;
+    font-weight: 100px;
 }
 
 h1 {
-    font-family: 'syncopate';
+    font-family: 'syncopate', sans-serif;
 }
 
 h1,
@@ -17,7 +17,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 700;
+  font-weight: 200;
   margin-bottom: 3px;
 }
 h1,
@@ -57,8 +57,8 @@ button,
     border: 0px;
     border-radius: 12px;
     font-size: 18px;
-    font-family: montserrat;
-    font-weight: 700;
+    font-family: 'montserrat', sans-serif;
+    font-weight: 400;
     display: inline-block;
     background-color: #DAA034;
     color: #F0F0F0;
@@ -83,7 +83,7 @@ button:hover,
 .link {
     padding: 7px;
     color: #DAA034;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .link-visited:visited {
@@ -150,7 +150,7 @@ button:hover,
 
 .pattern-title {
     border-bottom: 1px solid #454445;
-    font-weight: bolder;
+    font-weight: 400;
 }
 
 .pattern-subtitle {
